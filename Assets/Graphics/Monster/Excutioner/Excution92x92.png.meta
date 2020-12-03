@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: ecfaaa627c71f6f4a998791d57fade59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8139523214776931493
+    second: Excution92x92_0
+  - first:
+      213: 811965871656440155
+    second: Excution92x92_1
+  - first:
+      213: -3751357185485218589
+    second: Excution92x92_2
+  - first:
+      213: 6488234467590427445
+    second: Excution92x92_3
+  - first:
+      213: -3407193044553913369
+    second: Excution92x92_4
+  - first:
+      213: -5373099234205269332
+    second: Excution92x92_5
+  - first:
+      213: 8754948741570794802
+    second: Excution92x92_6
+  - first:
+      213: 5301043399428521995
+    second: Excution92x92_7
+  - first:
+      213: -4787621578338877530
+    second: Excution92x92_8
+  - first:
+      213: -8854091520526705292
+    second: Excution92x92_9
+  - first:
+      213: 3933983254631989920
+    second: Excution92x92_10
+  - first:
+      213: -2876479970317244647
+    second: Excution92x92_11
+  - first:
+      213: -4049278895999936067
+    second: Excution92x92_12
+  - first:
+      213: -7240505205285438548
+    second: Excution92x92_13
+  - first:
+      213: 1818452560215600094
+    second: Excution92x92_14
+  - first:
+      213: -3515593697559610090
+    second: Excution92x92_15
+  - first:
+      213: -2799828547434585882
+    second: Excution92x92_16
+  - first:
+      213: -4085393928474457310
+    second: Excution92x92_17
+  - first:
+      213: 8692455859202022695
+    second: Excution92x92_18
+  - first:
+      213: 4423115734195689977
+    second: Excution92x92_19
+  - first:
+      213: 3665298874252993144
+    second: Excution92x92_20
+  - first:
+      213: 491141881656407600
+    second: Excution92x92_21
+  - first:
+      213: -8624844538273360993
+    second: Excution92x92_22
+  - first:
+      213: 5134734064947611516
+    second: Excution92x92_23
+  - first:
+      213: 6257333736129497426
+    second: Excution92x92_24
+  - first:
+      213: -7143462915992447055
+    second: Excution92x92_25
+  - first:
+      213: -8228088350078531971
+    second: Excution92x92_26
+  - first:
+      213: 1608380003939588785
+    second: Excution92x92_27
+  - first:
+      213: -1102061125335605
+    second: Excution92x92_28
+  - first:
+      213: -7595175868250414023
+    second: Excution92x92_29
+  - first:
+      213: 3887270326474992608
+    second: Excution92x92_30
+  - first:
+      213: 1726005571397197790
+    second: Excution92x92_31
+  - first:
+      213: -888533613445511110
+    second: Excution92x92_32
+  - first:
+      213: 1293810607738986597
+    second: Excution92x92_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excution92x92_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a7391853de3e243b5e733001f314e2
+      internalID: -8139523214776931493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 552
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3599d10a9cac242a1dcb25a5757f5c
+      internalID: 811965871656440155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 552
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fef9c8cf373174d82e9386b403f3b5
+      internalID: -3751357185485218589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 552
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3bdb25677d5143924853a58712f49
+      internalID: 6488234467590427445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 552
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ed23583066ea4b8f41355bdf6f0ff
+      internalID: -3407193044553913369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce72b7be6c891ba42880cf21ceef354d
+      internalID: -5373099234205269332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 460
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190fcefe1bccb534f99a4646e73c0135
+      internalID: 8754948741570794802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 460
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ab015e0a916d43a85ef2ca98c8608
+      internalID: 5301043399428521995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 460
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c22ae8a70b1f349a6060a70cd17ea7
+      internalID: -4787621578338877530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 460
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e103fbc591b4004ca4bfe1c8dd82f10
+      internalID: -8854091520526705292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f95407d89625294ebbdcce9b8fa9303
+      internalID: 3933983254631989920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 368
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5444a8f21a9047b64f03c62d6126a
+      internalID: -2876479970317244647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 368
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d2853a51bb5742af48f884dab0c6c
+      internalID: -4049278895999936067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 368
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e654957386314b8f3457340ffae05
+      internalID: -7240505205285438548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796d447545889054e846700cec3e3cfb
+      internalID: 1818452560215600094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0908ef432dded343bad60479e24041c
+      internalID: -3515593697559610090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 276
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da7626212717d543a48506827d3d4ac
+      internalID: -2799828547434585882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a011440833eaeb7439ce9312adede18b
+      internalID: -4085393928474457310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 276
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a331bd608d5ca4f82c6882da4e012b
+      internalID: 8692455859202022695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 276
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad6249dd4afc44b8c5bdd90ce71577
+      internalID: 4423115734195689977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e9647908c53540b4f39009130bd39
+      internalID: 3665298874252993144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 184
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ad4a22ac48664cbdbd1bc2b31669b
+      internalID: 491141881656407600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 184
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd100bf0a12274a87517d139c4f43c
+      internalID: -8624844538273360993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 184
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e857b41d4b4964b90d7b0c741de345
+      internalID: 5134734064947611516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 184
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba62f39264f814a96f18343286dcf8
+      internalID: 6257333736129497426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff9801fd4e6bd4a91210da3fe993eb
+      internalID: -7143462915992447055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff8bc18eac29e409f9312f5c7f0deb
+      internalID: -8228088350078531971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 92
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e20e6bad139d4d935d0edb15ba1b3
+      internalID: 1608380003939588785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30403b9462bbf440ab82f87411fd016
+      internalID: -1102061125335605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 92
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce48e92ad52ee44d92dc3cd44a36e1e
+      internalID: -7595175868250414023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17ddec8fb4e5c49a988702f368d614
+      internalID: 3887270326474992608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d73a1f7da8a34abe22f20ebcd11f0
+      internalID: 1726005571397197790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7327aebfc67d7342a0c14495018be29
+      internalID: -888533613445511110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excution92x92_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8879af3f5685964b975187bf82a3a07
+      internalID: 1293810607738986597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

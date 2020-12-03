@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 8021e5bcf15d5b54a89b87dc477f3296
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1840770201327291199
+    second: iceAttack245x245_0
+  - first:
+      213: 6425164848484431105
+    second: iceAttack245x245_1
+  - first:
+      213: -8076735911075620753
+    second: iceAttack245x245_2
+  - first:
+      213: -6970099427512506835
+    second: iceAttack245x245_3
+  - first:
+      213: -1891484059894744541
+    second: iceAttack245x245_4
+  - first:
+      213: -4062918605651546015
+    second: iceAttack245x245_5
+  - first:
+      213: 6745270959126289390
+    second: iceAttack245x245_6
+  - first:
+      213: -7673338252965953601
+    second: iceAttack245x245_7
+  - first:
+      213: -1794570013259153836
+    second: iceAttack245x245_8
+  - first:
+      213: 2057886453963912314
+    second: iceAttack245x245_9
+  - first:
+      213: -5947923489261347551
+    second: iceAttack245x245_10
+  - first:
+      213: 7724865258246593941
+    second: iceAttack245x245_11
+  - first:
+      213: -5916573304770918189
+    second: iceAttack245x245_12
+  - first:
+      213: -5949474598155063202
+    second: iceAttack245x245_13
+  - first:
+      213: -1441841210630864046
+    second: iceAttack245x245_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iceAttack245x245_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f2d29b9d4d2d43869d26b710a9b1d
+      internalID: 1840770201327291199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 490
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52df4819fc3ebc408d3c64fb32367df
+      internalID: 6425164848484431105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 490
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdaa967071302344bbb73890df83c86
+      internalID: -8076735911075620753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 490
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75181c1a594b33444a48ab1b41cf251a
+      internalID: -6970099427512506835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 490
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca0287fc6538945912ca5224203455
+      internalID: -1891484059894744541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b161c2b7cf4c3488ac38140649b40b
+      internalID: -4062918605651546015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 245
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7caea9311c22cb4486f36af75f029fb
+      internalID: 6745270959126289390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 245
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f568c8621a04f8548993f9a6fb97c794
+      internalID: -7673338252965953601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 245
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be5cb8df566994a98b2289f7d5d4a5
+      internalID: -1794570013259153836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_9
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 245
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce88c9293e7c7346965eca222076526
+      internalID: 2057886453963912314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697330d4ff32b6b4aac5fa75998e8ec6
+      internalID: -5947923489261347551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb77855befc0d418d91ae2de5d221d
+      internalID: 7724865258246593941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee4cad9d99c86c46a966f437d009910
+      internalID: -5916573304770918189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_13
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423957714518ce840b223b4508ce7497
+      internalID: -5949474598155063202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceAttack245x245_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 245
+        height: 245
+      alignment: 9
+      pivot: {x: 0.68, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64efe65f89c3d145b6e2bd7b87458af
+      internalID: -1441841210630864046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

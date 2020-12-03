@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 65692ffb9ff0f4843a89228170a98e57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8392654711871466557
+    second: DoubleRun_0
+  - first:
+      213: -4100495411545493597
+    second: DoubleRun_1
+  - first:
+      213: 4920132511245544700
+    second: DoubleRun_2
+  - first:
+      213: 6201617905014275206
+    second: DoubleRun_3
+  - first:
+      213: 6445904741952268543
+    second: DoubleRun_4
+  - first:
+      213: 243059164786051765
+    second: DoubleRun_5
+  - first:
+      213: -2350091728905036689
+    second: DoubleRun_6
+  - first:
+      213: -4548368488485931866
+    second: DoubleRun_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoubleRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5550011, y: 0.12416036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc7e4fc3bbaecf44af91ec026cbf9f8
+      internalID: 8392654711871466557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 22
+      alignment: 9
+      pivot: {x: 0.655574, y: 0.11499354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ebf4a2fd30034493e8b7d1aff2ad6
+      internalID: -4100495411545493597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 49
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6234715, y: 0.096659966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483706f6e340114089f1b35be28d333
+      internalID: 4920132511245544700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 44
+        height: 23
+      alignment: 9
+      pivot: {x: 0.69250315, y: 0.026513945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadbedbddb9dce048a82393ca767af2e
+      internalID: 6201617905014275206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 39
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7171834, y: 0.07245955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fda71ab874834cb2de4f8dea6de06
+      internalID: 6445904741952268543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 1.121816, y: 0.0791235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810848bfd0e626b4eb10fa09eca7a880
+      internalID: 243059164786051765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 1.2241787, y: -0.05123123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2c9937d4e4b9459a0f51fc2cc2b00
+      internalID: -2350091728905036689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleRun_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 1.5614207, y: -0.40751466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1cf9a2a40691641b49b13e84ba6a08
+      internalID: -4548368488485931866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

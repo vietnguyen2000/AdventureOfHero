@@ -1,0 +1,2287 @@
+fileFormatVersion: 2
+guid: a162309d4f78bb6419f8ede387b8b916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8522479503137396379
+    second: firebullet63x63_0
+  - first:
+      213: 7925790532243171425
+    second: firebullet63x63_1
+  - first:
+      213: 7761303743425572661
+    second: firebullet63x63_2
+  - first:
+      213: 3476453295514504143
+    second: firebullet63x63_3
+  - first:
+      213: -7972556589778299494
+    second: firebullet63x63_4
+  - first:
+      213: 2884953310808439019
+    second: firebullet63x63_5
+  - first:
+      213: 6953089078532544519
+    second: firebullet63x63_6
+  - first:
+      213: -7746615555125239023
+    second: firebullet63x63_7
+  - first:
+      213: 741235602624503779
+    second: firebullet63x63_8
+  - first:
+      213: 3499306697565723774
+    second: firebullet63x63_9
+  - first:
+      213: 3421388969378176078
+    second: firebullet63x63_10
+  - first:
+      213: -2421920834965917682
+    second: firebullet63x63_11
+  - first:
+      213: -2043349988808739250
+    second: firebullet63x63_12
+  - first:
+      213: 5109925792037900215
+    second: firebullet63x63_13
+  - first:
+      213: -3301265591716667658
+    second: firebullet63x63_14
+  - first:
+      213: -7013846054598802546
+    second: firebullet63x63_15
+  - first:
+      213: 1314537979001489334
+    second: firebullet63x63_16
+  - first:
+      213: 4591393939694276664
+    second: firebullet63x63_17
+  - first:
+      213: 3599939254234634242
+    second: firebullet63x63_18
+  - first:
+      213: -9200035935653419712
+    second: firebullet63x63_19
+  - first:
+      213: 5017901468341725096
+    second: firebullet63x63_20
+  - first:
+      213: 923271726351446695
+    second: firebullet63x63_21
+  - first:
+      213: -8045394261877231325
+    second: firebullet63x63_22
+  - first:
+      213: -3792975865400905186
+    second: firebullet63x63_23
+  - first:
+      213: -5502821458664178016
+    second: firebullet63x63_24
+  - first:
+      213: -7147187493240137188
+    second: firebullet63x63_25
+  - first:
+      213: 7614264509313022504
+    second: firebullet63x63_26
+  - first:
+      213: -1007662578688910276
+    second: firebullet63x63_27
+  - first:
+      213: 5952545291423770881
+    second: firebullet63x63_28
+  - first:
+      213: -895191781977510190
+    second: firebullet63x63_29
+  - first:
+      213: -2996665735501588648
+    second: firebullet63x63_30
+  - first:
+      213: 7446549027533037209
+    second: firebullet63x63_31
+  - first:
+      213: 7440156634388008586
+    second: firebullet63x63_32
+  - first:
+      213: 2884216512515377786
+    second: firebullet63x63_33
+  - first:
+      213: 327978481475789943
+    second: firebullet63x63_34
+  - first:
+      213: -1790683793435066317
+    second: firebullet63x63_35
+  - first:
+      213: -6995765147998554772
+    second: firebullet63x63_36
+  - first:
+      213: 5005453666072386262
+    second: firebullet63x63_37
+  - first:
+      213: -291192981883269862
+    second: firebullet63x63_38
+  - first:
+      213: 2383841887047166807
+    second: firebullet63x63_39
+  - first:
+      213: 5025361425183137057
+    second: firebullet63x63_40
+  - first:
+      213: -7366755301559314663
+    second: firebullet63x63_41
+  - first:
+      213: -6806149739211043289
+    second: firebullet63x63_42
+  - first:
+      213: -1259429568232257559
+    second: firebullet63x63_43
+  - first:
+      213: 8148355091452920496
+    second: firebullet63x63_44
+  - first:
+      213: 8959815299267896535
+    second: firebullet63x63_45
+  - first:
+      213: 864385908279102199
+    second: firebullet63x63_46
+  - first:
+      213: 964482620893452643
+    second: firebullet63x63_47
+  - first:
+      213: 8122039323528652490
+    second: firebullet63x63_48
+  - first:
+      213: -895428228329342568
+    second: firebullet63x63_49
+  - first:
+      213: -7494862422633145636
+    second: firebullet63x63_50
+  - first:
+      213: 8133957000246773272
+    second: firebullet63x63_51
+  - first:
+      213: -2148003511158323404
+    second: firebullet63x63_52
+  - first:
+      213: -3336516244232100428
+    second: firebullet63x63_53
+  - first:
+      213: 4030097168376454377
+    second: firebullet63x63_54
+  - first:
+      213: 3755973728956059468
+    second: firebullet63x63_55
+  - first:
+      213: -3487952706045036956
+    second: firebullet63x63_56
+  - first:
+      213: 7110858761017454520
+    second: firebullet63x63_57
+  - first:
+      213: 3337898585808725782
+    second: firebullet63x63_58
+  - first:
+      213: 8915795881723661300
+    second: firebullet63x63_59
+  - first:
+      213: -6543504322440017844
+    second: firebullet63x63_60
+  - first:
+      213: 4686523134759793682
+    second: firebullet63x63_61
+  - first:
+      213: -1060573206400489281
+    second: firebullet63x63_62
+  - first:
+      213: -311996149505965834
+    second: firebullet63x63_63
+  - first:
+      213: -684601878709881872
+    second: firebullet63x63_64
+  - first:
+      213: 724801118491279948
+    second: firebullet63x63_65
+  - first:
+      213: 6527727795315196221
+    second: firebullet63x63_66
+  - first:
+      213: 8209112805455081829
+    second: firebullet63x63_67
+  - first:
+      213: -6916195156841438282
+    second: firebullet63x63_68
+  - first:
+      213: 9021113002670914959
+    second: firebullet63x63_69
+  - first:
+      213: 1950460098144508007
+    second: firebullet63x63_70
+  - first:
+      213: -4066728942509525642
+    second: firebullet63x63_71
+  - first:
+      213: 6820574005196575870
+    second: firebullet63x63_72
+  - first:
+      213: -882265013782777988
+    second: firebullet63x63_73
+  - first:
+      213: -8088782756903611627
+    second: firebullet63x63_74
+  - first:
+      213: -9056843013379822087
+    second: firebullet63x63_75
+  - first:
+      213: 7645241831060087174
+    second: firebullet63x63_76
+  - first:
+      213: -1994779900301550698
+    second: firebullet63x63_77
+  - first:
+      213: 8092871328999035673
+    second: firebullet63x63_78
+  - first:
+      213: -9051761716022217079
+    second: firebullet63x63_79
+  - first:
+      213: 8938519895376094847
+    second: firebullet63x63_80
+  - first:
+      213: 5241564012860291834
+    second: firebullet63x63_81
+  - first:
+      213: -6835731210688169054
+    second: firebullet63x63_82
+  - first:
+      213: 7166060209285114662
+    second: firebullet63x63_83
+  - first:
+      213: 19137690503438543
+    second: firebullet63x63_84
+  - first:
+      213: 8020074984390586827
+    second: firebullet63x63_85
+  - first:
+      213: -5099687543887288177
+    second: firebullet63x63_86
+  - first:
+      213: 8244636991673681815
+    second: firebullet63x63_87
+  - first:
+      213: 3567761268078239694
+    second: firebullet63x63_88
+  - first:
+      213: 3141374607232854274
+    second: firebullet63x63_89
+  - first:
+      213: 562337284375288889
+    second: firebullet63x63_90
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firebullet63x63_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c94b87829a8db4eb00529440f44e0e
+      internalID: -8522479503137396379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87db1d21319174ea9467b70a3a4df4
+      internalID: 7925790532243171425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac23ec4941eee044821419319213bdc
+      internalID: 7761303743425572661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe725a73b1d0c459648ecf765a6b0c
+      internalID: 3476453295514504143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091cb3347e4c95e48b8d2ed9cbaef8b8
+      internalID: -7972556589778299494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202b7835d022304d8a70541de2d690a
+      internalID: 2884953310808439019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4eea521ea0c6c4193608b71e51cf50
+      internalID: 6953089078532544519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e789130ad6aea45b3607e25c0003c3
+      internalID: -7746615555125239023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae95bd3ebc090c449c6e938ab92f496
+      internalID: 741235602624503779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 567
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a195651b9b350a944b78056d165cef4b
+      internalID: 3499306697565723774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c820f7d7707e34eb1046f8c37530b0
+      internalID: 3421388969378176078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fca3a0d7f6eb0408b68bd7897127a0
+      internalID: -2421920834965917682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4674c24eb5f85458d37e85f122cf89
+      internalID: -2043349988808739250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a82ad1fe0ff64fbe372c9f98576f6
+      internalID: 5109925792037900215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d4ede781bdc4d438af99f458e7e17d
+      internalID: -3301265591716667658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a35fd33643a74ea7fb807a15ca290
+      internalID: -7013846054598802546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf31f8c5ad9674fb41b8b7c3ee916f
+      internalID: 1314537979001489334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89099bd764bd9074e8cbca80a1f9ea0e
+      internalID: 4591393939694276664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d526e5979dbf4190556eea3f752b7
+      internalID: 3599939254234634242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 504
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0caa9a9c72b1749b75e6ba2495ea0f
+      internalID: -9200035935653419712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d412c363e69b74592ce8ad9472966b
+      internalID: 5017901468341725096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca4a3884a0489458b140c883d6a1c9
+      internalID: 923271726351446695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab1bcc610ffd442a25060c8563d608
+      internalID: -8045394261877231325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de759162fc46c64eb022ef9f12e9d06
+      internalID: -3792975865400905186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fed711e380b04da7241366dbbf3c4
+      internalID: -5502821458664178016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67790b228feb7ab4b954d626053d6035
+      internalID: -7147187493240137188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84461c4f808bda45b61df16caee99d6
+      internalID: 7614264509313022504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672a6709ee64604f8c3fce9d0f1c789
+      internalID: -1007662578688910276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88770fabd5e3c70469f9d953df130fa5
+      internalID: 5952545291423770881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 441
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425b6c453f394b45bbec4bfdaa810a9
+      internalID: -895191781977510190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384d710177c79d41b0eb00193ba03ca
+      internalID: -2996665735501588648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26965c1697637da40ba67def1bbf7c8d
+      internalID: 7446549027533037209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94296b7c7025474286b3fc879785ddc
+      internalID: 7440156634388008586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270cee0ded5907a4585aec426657b994
+      internalID: 2884216512515377786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7479c4f5507459d45ba88225485ad561
+      internalID: 327978481475789943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1f314ec7ffbc409dd1f6f49a253bd
+      internalID: -1790683793435066317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f954f1cb105fc4fae67c4811baea55
+      internalID: -6995765147998554772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b805bc2f351ae4aa2319c29c96f4cd
+      internalID: 5005453666072386262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2f7a4865326f4a80bc42299fe22f5
+      internalID: -291192981883269862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 378
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d159cac75dd848542a901088caa23658
+      internalID: 2383841887047166807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29125e432381ba94693cada9cd249d58
+      internalID: 5025361425183137057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb41f7456261874ab9ea2b96c5bd85a
+      internalID: -7366755301559314663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c2e979a3b76441a788fe01e312ec0
+      internalID: -6806149739211043289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f8c2731daca55459c80b21795d78fc
+      internalID: -1259429568232257559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10b32e99d762848bb32dad85bbb19f
+      internalID: 8148355091452920496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4ad561fde1c8c48b893b61088d2cf0
+      internalID: 8959815299267896535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b7ff6f90c21414d8ca8db8235644f6
+      internalID: 864385908279102199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd85573c5c68649a41bd79d4ee464b
+      internalID: 964482620893452643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30436a2cba45354abda8dbf276ea681
+      internalID: 8122039323528652490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 315
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7eeb5702b6b47439ccff5b80cbaba1
+      internalID: -895428228329342568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7f96b97a1ba254bb92da6e8085bddb
+      internalID: -7494862422633145636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cc2ded5414d642a04b4e3cb9df0b6
+      internalID: 8133957000246773272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc93d84d4c717c946993e0f768ee3285
+      internalID: -2148003511158323404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da77dd14fb0484c9062a2d3b609b6a
+      internalID: -3336516244232100428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268aae077cbf0c04099572c6eb57a485
+      internalID: 4030097168376454377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38a99b36b92ea4aa52575bf87e74fb
+      internalID: 3755973728956059468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed99eac9cb488949a5cf0a063f55673
+      internalID: -3487952706045036956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3825828bccf04b89279c81b59abd8
+      internalID: 7110858761017454520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_58
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b883426fbbef0448eee3e2dd0c9e93
+      internalID: 3337898585808725782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_59
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 252
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89475098b3d2f2a449b25cdd9efa8b4d
+      internalID: 8915795881723661300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d000ef929914c41b8659fd8351f180
+      internalID: -6543504322440017844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57c5613a33e8342921c90f7a636d4a
+      internalID: 4686523134759793682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9225dd2f71a745a76dbb528aa6f2f
+      internalID: -1060573206400489281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68753c34cf1dcc4f8e03ffe55814f97
+      internalID: -311996149505965834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6696f5fcb66a46ac6d6bbededa705
+      internalID: -684601878709881872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa6025482c2cb4caa1a9e9ac10afd2
+      internalID: 724801118491279948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a79404990daf04ea5b1dcdb1f33e8c
+      internalID: 6527727795315196221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_67
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536871154b2e87747915cc8b73050ea6
+      internalID: 8209112805455081829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad5a8b17b1c7c46a5e6c0e9cf1e8ab
+      internalID: -6916195156841438282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 189
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51b746287315304ca37bbcb40d4f607
+      internalID: 9021113002670914959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53de954e85f1242a1a38f865b0300a
+      internalID: 1950460098144508007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a767a0480ca5847b739cafb6242c16
+      internalID: -4066728942509525642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45cd0ef513e03f409aea2b5a977a0a4
+      internalID: 6820574005196575870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde6a24f75f5ae4ca95a806f524e335
+      internalID: -882265013782777988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6683260c9ce014d4589bebb0d7cc4124
+      internalID: -8088782756903611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8673f817493ec40819cdb4f2bc6c06
+      internalID: -9056843013379822087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9745eb9321ee42abf8799b649cd2d
+      internalID: 7645241831060087174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_77
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1cd877fdf34e7488749b9301fbcfd1
+      internalID: -1994779900301550698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_78
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc59c66d203524542a476745f5243c08
+      internalID: 8092871328999035673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 126
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539ed9c96931e645837505104dcd3ff
+      internalID: -9051761716022217079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98387c8fff2db4c4e92efb990bf2361d
+      internalID: 8938519895376094847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee4f5e10de60741b72967773bf4398
+      internalID: 5241564012860291834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_82
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d168dd4e29db441aa49e106fbc0012
+      internalID: -6835731210688169054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_83
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac4312efdb7a040ba6753cbf7fd6f5
+      internalID: 7166060209285114662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc95c2b7861a84e841058011af6137
+      internalID: 19137690503438543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630016f73e623f46a2031f725fc2d9e
+      internalID: 8020074984390586827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc0fad35da6fb4fa37ff7a75e049fe
+      internalID: -5099687543887288177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e608236520b4b40bc078e36f9c2821
+      internalID: 8244636991673681815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_88
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c91f84bbb564443a0cc9636df9ce9d
+      internalID: 3567761268078239694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_89
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 63
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170197389971ec45a011dd3e32affde
+      internalID: 3141374607232854274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firebullet63x63_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba73c9790a2219418d8eee60196ead8
+      internalID: 562337284375288889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 21758eeaa224f9842baa8bdaa6ebbedf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7139480377547575154
+    second: windAttack_0
+  - first:
+      213: -5845763808663517921
+    second: windAttack_1
+  - first:
+      213: -2548998588292342107
+    second: windAttack_2
+  - first:
+      213: 3021165047268420341
+    second: windAttack_3
+  - first:
+      213: 5310224549260072273
+    second: windAttack_4
+  - first:
+      213: -6412634926692154846
+    second: windAttack_5
+  - first:
+      213: -3955365622003409159
+    second: windAttack_6
+  - first:
+      213: 3034679710701309683
+    second: windAttack_7
+  - first:
+      213: 3379306735115233796
+    second: windAttack_8
+  - first:
+      213: -2080174151072648855
+    second: windAttack_9
+  - first:
+      213: 3954545529677198825
+    second: windAttack_10
+  - first:
+      213: -3209873825766308381
+    second: windAttack_11
+  - first:
+      213: 4465690959072605589
+    second: windAttack_12
+  - first:
+      213: -3487812007095771821
+    second: windAttack_13
+  - first:
+      213: 7779209515405142996
+    second: windAttack_14
+  - first:
+      213: -2479661101060841031
+    second: windAttack_15
+  - first:
+      213: -22833083263537025
+    second: windAttack_16
+  - first:
+      213: 7909716943345853072
+    second: windAttack_17
+  - first:
+      213: 8718984196433130157
+    second: windAttack_18
+  - first:
+      213: -1113427044810954730
+    second: windAttack_19
+  - first:
+      213: 5752213815526079250
+    second: windAttack_20
+  - first:
+      213: 5081736610454757329
+    second: windAttack_21
+  - first:
+      213: 7175439914351508038
+    second: windAttack_22
+  - first:
+      213: -5841413363651070286
+    second: windAttack_23
+  - first:
+      213: -482286131786843239
+    second: windAttack_24
+  - first:
+      213: 4565841451710361225
+    second: windAttack_25
+  - first:
+      213: 7499565243495152998
+    second: windAttack_26
+  - first:
+      213: -8610162865809266897
+    second: windAttack_27
+  - first:
+      213: -7720765010035710525
+    second: windAttack_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windAttack_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 145
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a360a914e367294ea87de43bc0f2137
+      internalID: 7139480377547575154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 144
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047294baf1feb964b8b654c328f29898
+      internalID: -5845763808663517921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 145
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552b3bda9efbca4cb88aeeadaf6aa9a
+      internalID: -2548998588292342107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 145
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fd0b0d32c92c4b8336be5b36364fc
+      internalID: 3021165047268420341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 132
+        width: 63
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48061281bf0f13a439628ac46ec0282b
+      internalID: -6412634926692154846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 148
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b920b939f90674a8b13f127cbcec9f
+      internalID: -3955365622003409159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 148
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373827ff27df57d49a0fbe4aafcdea5b
+      internalID: 3034679710701309683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 148
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d20770becc4343a2f58348e00f40f
+      internalID: 3379306735115233796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 151
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a6cb59998941448ac98f4dfff1eaed
+      internalID: -2080174151072648855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 60
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0d58f42a7a16743be9e82eecf3ed84
+      internalID: -22833083263537025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 29
+        width: 60
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a323f6ee3f387404cbab90532c4e9cf3
+      internalID: 7909716943345853072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 61
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c840e06c6c124b9acd5efac8efcaf
+      internalID: -1113427044810954730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f855a63bf13fe74e88e217d96c86c97
+      internalID: 5081736610454757329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0ee2a8f9c2d494588f42f80675125a
+      internalID: 7175439914351508038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 8
+        width: 48
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f767bd6fc63724babde871cb578391
+      internalID: -5841413363651070286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windAttack_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 11
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94273a41e255ba479d225a901b43f05
+      internalID: -482286131786843239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
